@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>zasoby/pillar.png</file>
+        <file>zasoby/birddown.png</file>
+        <file>zasoby/birdmiddle.png</file>
+        <file>zasoby/birdup.png</file>
+        <file>zasoby/tlo.png</file>
+    </qresource>
+</RCC>
